@@ -1,0 +1,7 @@
+
+if [ -f /usr/local/commons/bash_commons ];
+then
+	source /usr/local/commons/bash_commons
+else
+	echo "no commons found"
+fi
