@@ -1,0 +1,4 @@
+color kellys
+
+autocmd FileType js setlocal shiftwidth=4 tabstop=4
+
